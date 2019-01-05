@@ -4,7 +4,7 @@
 
 It extends [redux-form-auto](https://github.com/dgonz64/redux-form-auto) and the API is identical ([documentation](https://dgonz64.github.io/redux-form-auto/)).
 
-## Use a demo
+## Play with the demo
 
 [Demo](https://dgonz64.github.io/redux-form-auto-bootstrap3/demo/)
 
