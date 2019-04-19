@@ -8,7 +8,8 @@ export const mapRadioOptions = ({
   schemaTypeName,
   fieldSchema: {
     options
-  }
+  },
+  props
 }) =>
   options.map(op => {
     const label = trModel(schemaTypeName, name, op)
